@@ -1,0 +1,8 @@
+
+Simple TextStyling addon that adds support for Markdown sythax (http://daringfireball.net/projects/markdown/).
+
+For now this addon is not part of XDocreport itself because it depends on JMD lib that is not available in Maven Central Repo.
+
+The JMD lib comes from GitHub, and for now we rely on a custom build that is hosted in Nuxeo repo.
+
+
